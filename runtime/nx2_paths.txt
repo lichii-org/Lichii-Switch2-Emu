@@ -1,0 +1,3 @@
+Executable: lichii.exe
+CLI: eden-cli.exe
+Branch: nx2 (zortos293/Lichii)
